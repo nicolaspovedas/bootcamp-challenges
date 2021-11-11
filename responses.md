@@ -45,15 +45,53 @@ Respuestas
 Selectores:
 
 by html tag: e.g. div
+
 by id: e.g. #long for id="long"
+
 Descendant Selector: e.g. div .long
+
 by class:  e.g. .cards for class="cars"
+
 different selectors (,):  e.g. .cars, .long
+
 Universal selector (*): p*
+
 Adjacent Sibling Selector (+): A + B selecciona 2 de los elementos B que siguen después de A
+
 General Sibling Selector (~):  A ~ B selecciona todos los elementos B que siguen después de A
+
 Child Selector (>): A > B Selecciona todos los elementos B dentro de A
 
+A:first-child: Primer elemento dentro de A
 
+A:only-child: El único elemento dentro de A
 
+A:last-child: El ultimo elemento dentro de A
 
+A:nth-child(#n): el elemento #n dentro de A
+
+A:nth-last-child(#n): Contando desde el último elemento hacia el primero.
+
+B A:first-of-type: Selecciona el primer A dentro de B
+
+A:nth-of-type(#n): Seleccione #n elementos del tipo A. Recibe "even", "odd"
+
+A:nth-of-type(#n+x) con fórmula: Selecciona cada #n eleementos empezando en el x
+
+B A:only-of-type: Selecciona A si solo hay uno dentro de B
+
+B A:last-of-type: Selecciona el último A dentro de B
+
+A:empty: Selecciona los A vacios
+
+:not(A): Selecciona todo lo que NO es A
+
+A[attribute]: Selecciona todos los A que tengan attribute = "lo que sea"
+
+A[attribute="value"]: Selecciona todos los A que tengan atributo y valor igual
+
+A[attribute^="LoQueSea"]: Selecciona los A cuyo attribute EMPIEZA con LoQueSea
+
+A[attribute$="LoQueSea"]: Selecciona los A cuyo attribute TERMINA con LoQueSea
+
+A[attribute*="LoQueSea"]: Selecciona los A cuyo attribute CONTIENE con LoQueSea
