@@ -6,7 +6,8 @@ Ejercicios resueltos parte 2:
 
 <img width="375" alt="Captura de Pantalla 2021-11-10 a la(s) 8 13 17 p  m" src="https://user-images.githubusercontent.com/22968636/141219176-d02c0604-c45a-40e1-8c21-98ed399d9609.png">
 
-Respuestas
+RESPUESTAS
+
 1. plate
 2. bento
 3. #fancy
@@ -42,7 +43,9 @@ Respuestas
 
 
 
-Selectores:
+
+
+SELECTORES
 
 by html tag: e.g. div
 
@@ -95,3 +98,13 @@ A[attribute^="LoQueSea"]: Selecciona los A cuyo attribute EMPIEZA con LoQueSea
 A[attribute$="LoQueSea"]: Selecciona los A cuyo attribute TERMINA con LoQueSea
 
 A[attribute*="LoQueSea"]: Selecciona los A cuyo attribute CONTIENE con LoQueSea
+
+
+ESPECIFIDAD
+
+HTML tag
+  Clase
+    ID
+      El que esté mas abajo
+        Important
+        
