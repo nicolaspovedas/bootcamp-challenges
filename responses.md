@@ -1,6 +1,9 @@
 Ejercicios resueltos parte 1:
+
 <img width="381" alt="Captura de Pantalla 2021-11-10 a la(s) 8 11 29 p  m" src="https://user-images.githubusercontent.com/22968636/141218999-1a62d78e-403c-4138-b58c-a3e603a4d7ae.png">
+
 Ejercicios resueltos parte 2:
+
 <img width="375" alt="Captura de Pantalla 2021-11-10 a la(s) 8 13 17 p  m" src="https://user-images.githubusercontent.com/22968636/141219176-d02c0604-c45a-40e1-8c21-98ed399d9609.png">
 
 Respuestas
