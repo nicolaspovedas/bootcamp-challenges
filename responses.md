@@ -102,9 +102,9 @@ A[attribute*="LoQueSea"]: Selecciona los A cuyo attribute CONTIENE con LoQueSea
 
 ESPECIFIDAD
 
-HTML tag
-  Clase
-    ID
-      El que esté mas abajo
+HTML tag,
+  Clase,
+    ID,
+      El que esté mas abajo,
         Important
         
