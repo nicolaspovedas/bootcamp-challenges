@@ -39,3 +39,21 @@ Respuestas
 30. *[for^="Sa"]
 31. *[for$="ato"]
 32. bento[for*="obb"]
+
+
+
+Selectores:
+
+by html tag: e.g. div
+by id: e.g. #long for id="long"
+Descendant Selector: e.g. div .long
+by class:  e.g. .cards for class="cars"
+different selectors (,):  e.g. .cars, .long
+Universal selector (*): p*
+Adjacent Sibling Selector (+): A + B selecciona 2 de los elementos B que siguen después de A
+General Sibling Selector (~):  A ~ B selecciona todos los elementos B que siguen después de A
+Child Selector (>): A > B Selecciona todos los elementos B dentro de A
+
+
+
+
